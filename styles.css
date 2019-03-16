@@ -107,4 +107,5 @@ h1 {
     background-blend-mode: overlay;
     background-size: 750px;
     width: 480px;
+    clip-path: url(#splash-bottom-right);
 }
