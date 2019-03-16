@@ -57,6 +57,7 @@ h1 {
     background: linear-gradient(90deg, #bde9ff, rgb(70, 70, 243));
     bottom: -100px;
     left: -10px;
+    clip-path: url(#splash-left);
 }
 
 .water {
@@ -65,7 +66,7 @@ h1 {
     float: left;
     width: 540px;
     height: 50vh;
-    background-image: url(../images/cosmic.jpg);
+    background-image: url(images/cosmic.jpg);
     background-attachment: fixed;
     background-size: 100%;
 }
@@ -94,7 +95,7 @@ h1 {
     display: inline-block;
     position: absolute;
     height: 260px;
-    background-image: url(../images/water.jpg);
+    background-image: url(images/water.jpg);
     background-attachment: fixed;
     background-position-y: -400px;
     background-position-x: 0;
