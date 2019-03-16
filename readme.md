@@ -1,0 +1,1 @@
+example html/css website using clip-path and masking
