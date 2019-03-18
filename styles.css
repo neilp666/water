@@ -109,3 +109,10 @@ h1 {
     width: 480px;
     clip-path: url(#splash-bottom-right);
 }
+
+input {
+    position: absolute;
+    bottom: 20px;
+    left: 40%;
+    width: 20%;
+}
